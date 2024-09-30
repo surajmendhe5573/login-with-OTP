@@ -1,1 +1,1 @@
-OTP Based Login system using Django Rest Framework.
+OTP Based Login system using Django Rest Framework..
